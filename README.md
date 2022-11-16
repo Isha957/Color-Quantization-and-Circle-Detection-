@@ -1,23 +1,6 @@
 # Color-Quantization-and-Circle-Detection-
 Computer Vision Assignment on Color Quantization using K-means and Circle Detection using Hough Transform
 <html>
-<head>
-<style>
-row {box-sizing: border-box;}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>     
-</head>
 
 <body>
        
@@ -50,21 +33,12 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_Clusterbins.png" style="width:300px;height:200px";></img><br>
        
     
- <div class="row">
-  <div class="column">
-    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" alt="RGB" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" alt="HSV" style="width:30%">
-  </div>
- </div>
        
-       
-       
+      
        
        
 <p><u>SSD Error<u></p>
-<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/SSD_Errors.png" style="width:800px;height:100px";></img><br>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/SSD_Errors.png" style="width:600px;height:100px";></img><br>
            
 <br>
        
