@@ -3,7 +3,7 @@ Computer Vision Assignment on Color Quantization using K-means and Circle Detect
 <html>
 <head>
    <style>
-* {
+row {
   box-sizing: border-box;
 }
 
@@ -20,7 +20,7 @@ Computer Vision Assignment on Color Quantization using K-means and Circle Detect
   display: table;
 }
        </style>     
-    /head>
+</head>
 
 <body>
        
