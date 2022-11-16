@@ -23,18 +23,18 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><i>Displaying the histograms of hue values with equally spaced bins and bins defined by K cluster centers</i></li>
 
 <h2>Results<h2>
-       <p><u>RGB Quantized<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+<p><u>RGB Quantized<u></p>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" style="width:300px;height:200px";></img><br>
               
-       <p><u>HSV Quantized<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+<p><u>HSV Quantized<u></p>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" style="width:300px;height:200px";></img><br>
   
-       <p><u>Histograms<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
-       <img src = "" style="width:300px;height:200px";></img><br>
+<p><u>Histograms<u></p>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_uniformbins.png" style="width:300px;height:200px";></img><br>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_Clusterbins.png" style="width:300px;height:200px";></img><br>
        
-       <p><u>SSD Error<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+<p><u>SSD Error<u></p>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/SSD_Errors.png" style="width:300px;height:200px";></img><br>
            
 <br>
        
@@ -50,17 +50,17 @@ This Repository contains a code solutions along with a Report for a Computer Vis
        </ul>
        
  <h2>Results<h2>
-       <p><u>Detection Radius =10 and accumulator array<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+ <p><u>Detection Radius =10 and accumulator array<u></p>
+ <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/detectcircle_r10.png" style="width:300px;height:200px";></img><br>
               
-       <p><u>Detection Radius =30 and accumulator array<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+ <p>Detection Radius =30 and accumulator array</p>
+ <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/detectcircle_r30.png" style="width:300px;height:200px";></img><br>
   
-       <p><u>Detection Radius =100 and accumulator array<u></p>
-       <img src = "" style="width:300px;height:200px";></img><br>
+ <p>Detection Radius =100 and accumulator array</p>
+ <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/detectcircle_r100.png" style="width:300px;height:200px";></img><br>
        
 <h2>Repository Files:</h2><br>
-       <b><u>Code Implementation:</u></b><br> 
+       <b>Code Implementation:</b><br> 
 <ul>
 <li><b>ColorQuantize.py - main code that calls the other helper functions</b></li>
        <ul>
@@ -70,12 +70,12 @@ This Repository contains a code solutions along with a Report for a Computer Vis
        </ul>
 <li><b>detectCircles.py - code implementation for CircleDetection</b></li> 
        </ul>
-       <b><u>Image png files:</u></b><br> 
+       <b>Image png files:</b><br> 
        <ul>
               <li>Image 1 - fish.png </li>
               <li>Image 2 - jupiter.png</li>
        </ul>
-       <b><u>Report</u></b><br> 
+       <b>Report</b><br> 
        
        
        
