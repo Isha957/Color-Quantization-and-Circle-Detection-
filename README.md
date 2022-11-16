@@ -53,8 +53,7 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_Clusterbins.png" style="width:300px;height:200px";></img><br>
        
     
-       
- div class="row">
+ <div class="row">
   <div class="column">
     <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" alt="RGB" style="width:30%">
   </div>
