@@ -2,10 +2,8 @@
 Computer Vision Assignment on Color Quantization using K-means and Circle Detection using Hough Transform
 <html>
 <head>
-   <style>
-row {
-  box-sizing: border-box;
-}
+<style>
+row {box-sizing: border-box;}
 
 .column {
   float: left;
@@ -13,13 +11,12 @@ row {
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
-       </style>     
+</style>     
 </head>
 
 <body>
