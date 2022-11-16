@@ -24,13 +24,33 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 
 
 <h2>Problem - 2: CIRCLE DETECTION</h2><br>
-
-
-<h2>Features:</h2><br>
-<b>Normalized  Difference Vegetation Index:</b><br> 
-
+<p><b>Given Image:</b></p>
+<img src = "" style="width:300px;height:200px";></img><br>
 <ul>
-<li><b><i>Extraction of NDVI time series data:</i></b></li>
+<li><i>Implementing a hough transform Circle Detector that takes an input image and fixed radius and returns centers of any detected circles.</i></li>
+<li><i>The output centers is a NX2 matrix in which each row lists (x,y) position of the detected circles' center</i></li>
+<li><i>Displaying the Hough Transform accumulator array</i></li>
+<li><i>Experimenting on how to determine the number of circlepresent by post-processing the accumulator array</i></li>
+<li><i>Describing the impact of the vote space quantization(bin size)/i></li>
+
+<h2>Repository Files:</h2><br>
+<b>Code Implementation:</b><br> 
+<ul>
+<li><b><i>ColorQuantize.py - main code that calls the other helper functions</i></b></li>
+       <ul>
+              <li>computeQuantizationerror.py - SSD error between quantized and original pixels</li>
+              <li>quantizeHSV.py - converts RGB image to HSV and quantize 1-D Hue space </li>
+              <li>quantizeRGB.py - quantizes 3D RGB image with K-means</li>
+       </ul>
+<li><b><i>detectCircles.py - code implementation for CircleDetection</i></b></li> 
+       </ul>
+<b>Image png files:</b><br> 
+       <ul>
+              <li>Image 1 - fish.png </li>
+              <li>Image 2 - jupiter.png</li>
+       </ul>
+<b>Report</b><br> 
+       
 <p>Using the Sentinel-2 Image Collection band data: Bands - B4 (Red) ; B8  (NIR) and the above formula, we obtain max NDVI values for each image. The NDVI tif        images are extracted  at 10m resolution.We generate these values every two weeks between the date range and export these images into a tiff file. These files can be accessed in Python using Geopandas/Rasterio and can be visualized.</p><br>
 <img src = "https://github.com/Isha957/yield_forecasting/blob/master/images/NDVI_img.png" style="width:300px;height:200px";></img><br>
 
