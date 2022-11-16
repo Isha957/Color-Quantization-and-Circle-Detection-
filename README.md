@@ -13,7 +13,7 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><b><i>Implementation of Hough Transform Circle Detector:</i></b></li>
 </ol>
 
-<h2>Problem - 1: COLOR QUANTIZATION:</h2><hr>
+<h1>Problem - 1: COLOR QUANTIZATION:</h1><hr>
 <p><b>Given Image:</b></p>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/fish.jpg" style="width:300px;height:200px";></img><br>
 <ul>
@@ -22,8 +22,23 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><i>Compute the SSD error between RGB image pixels and quantized pixels for both RGB and HSV space</i></li>
 <li><i>Displaying the histograms of hue values with equally spaced bins and bins defined by K cluster centers</i></li>
 
-
-<h2>Problem - 2: CIRCLE DETECTION</h2><hr>
+<h2>Results<h2>
+       <p><u>RGB Quantized<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+              
+       <p><u>HSV Quantized<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+  
+       <p><u>Histograms<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+       <img src = "" style="width:300px;height:200px";></img><br>
+       
+       <p><u>SSD Error<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+           
+<br>
+       
+<h1>Problem - 2: CIRCLE DETECTION</h1><hr>
 <p><b>Given Image:</b></p>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/jupiter.jpg" style="width:300px;height:200px";></img><br>
 <ul>
@@ -33,6 +48,16 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><i>Experimenting on how to determine the number of circlepresent by post-processing the accumulator array</i></li>
 <li><i>Describing the impact of the vote space quantization(bin size)/i></li>
        </ul>
+       
+ <h2>Results<h2>
+       <p><u>Detection Radius =10 and accumulator array<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+              
+       <p><u>Detection Radius =30 and accumulator array<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
+  
+       <p><u>Detection Radius =100 and accumulator array<u></p>
+       <img src = "" style="width:300px;height:200px";></img><br>
        
 <h2>Repository Files:</h2><br>
        <b><u>Code Implementation:</u></b><br> 
