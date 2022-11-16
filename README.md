@@ -2,7 +2,26 @@
 Computer Vision Assignment on Color Quantization using K-means and Circle Detection using Hough Transform
 <html>
 <head>
-<html>
+   <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+       </style>     
+    /head>
+
 <body>
        
 <p style="font-family:times" >
@@ -33,30 +52,17 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_uniformbins.png" style="width:300px;height:200px";></img><br>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_Clusterbins.png" style="width:300px;height:200px";></img><br>
        
-       
-       
+    
        
  div class="row">
   <div class="column">
-    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" alt="RGB" style="width:100%">
+    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" alt="RGB" style="width:30%">
   </div>
   <div class="column">
-    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" alt="HSV" style="width:100%">
+    <img src="https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" alt="HSV" style="width:30%">
   </div>
  </div>
        
-  .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}     
        
        
        
