@@ -24,17 +24,17 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 
 <h2>Results<h2>
 <p><u>RGB Quantized<u></p>
-<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" style="width:300px;height:200px";></img><br>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedRGB.png" style="width:300px;height:200px";></img>>
               
 <p><u>HSV Quantized<u></p>
-<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" style="width:300px;height:200px";></img><br>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/QuantizedHSV.png" style="width:300px;height:200px";></img><
   
 <p><u>Histograms<u></p>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_uniformbins.png" style="width:300px;height:200px";></img><br>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/Hist_Clusterbins.png" style="width:300px;height:200px";></img><br>
        
 <p><u>SSD Error<u></p>
-<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/SSD_Errors.png" style="width:300px;height:200px";></img><br>
+<img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/Result%20plots/SSD_Errors.png" style="width:100px;height:50px";></img><br>
            
 <br>
        
