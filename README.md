@@ -13,7 +13,7 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><b><i>Implementation of Hough Transform Circle Detector:</i></b></li>
 </ol>
 
-<h2>Problem - 1: COLOR QUANTIZATION:</h2><br>
+<h2>Problem - 1: COLOR QUANTIZATION:</h2><hr>
 <p><b>Given Image:</b></p>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/fish.jpg" style="width:300px;height:200px";></img><br>
 <ul>
@@ -23,7 +23,7 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><i>Displaying the histograms of hue values with equally spaced bins and bins defined by K cluster centers</i></li>
 
 
-<h2>Problem - 2: CIRCLE DETECTION</h2><br>
+<h2>Problem - 2: CIRCLE DETECTION</h2><hr>
 <p><b>Given Image:</b></p>
 <img src = "https://github.com/Isha957/Color-Quantization-and-Circle-Detection-/blob/main/jupiter.jpg" style="width:300px;height:200px";></img><br>
 <ul>
@@ -32,7 +32,8 @@ This Repository contains a code solutions along with a Report for a Computer Vis
 <li><i>Displaying the Hough Transform accumulator array</i></li>
 <li><i>Experimenting on how to determine the number of circlepresent by post-processing the accumulator array</i></li>
 <li><i>Describing the impact of the vote space quantization(bin size)/i></li>
-
+       </ul>
+       
 <h2>Repository Files:</h2><br>
        <b><u>Code Implementation:</u></b><br> 
 <ul>
@@ -51,6 +52,10 @@ This Repository contains a code solutions along with a Report for a Computer Vis
        </ul>
        <b><u>Report</u></b><br> 
        
-       </body>
-       </head>
-     <html>
+       
+       
+       
+       
+   </body>
+ </head>
+<html>
